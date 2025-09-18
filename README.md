@@ -21,7 +21,7 @@ Designed for high concurrency and horizontal scalability.
   - Guaranteed unique
   - Efficiently generated using a Snowflake-inspired ID generator
  
-- git clone https://github.com/rajreja3/tracking-number-generator.git
+- git clone [https://github.com/rajreja3/tracking-number-generator.git](https://github.com/Rajreja3/tracking-id-generator.git)
 - ./mvnw clean package -DskipTests
 - java -jar target/tracking-0.0.1-SNAPSHOT.jar
 
