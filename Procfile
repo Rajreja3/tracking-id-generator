@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/tracking-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar target/tracking-id-generator-0.0.1-SNAPSHOT.jar
